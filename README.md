@@ -4,7 +4,7 @@ goal: A server that I setup on my own from scratch that upadtes my site everytim
 
 ## The plan
 
-- [ ] Create a Linux VM in the cloud
+- [x] Create a Linux VM (Ubuntu Server, running locally using Multipass)
 - [ ] Connect to it securely with SSH
 - [ ] Learn the Linux basics (users, permissions, firewall)
 - [ ] Install Nginx and serve a page
@@ -13,4 +13,4 @@ goal: A server that I setup on my own from scratch that upadtes my site everytim
 - [ ] Auto-deploy with GitHub Actions
 
 ## Status
-In progress....Learning how to setup a Linux VM, Linux basics and other related fundamentals 
+- Milestone 1 of 7 done: my Ubuntu server is up and running. Next up: connecting to it with SSH keys
